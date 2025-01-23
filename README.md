@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DealoColdestonaBlock
-- 👀 I’m interested in learning lua and animation
+- 👀 I’m interested in learning lua(?) and animation
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on In the works.
 - 📫 How to reach me will update when you need to : deangelop12045@gmail.com
